@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: #0288d1;
+  color: #fff;
+  display: flex;
+  height: 5rem;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+  align-items: center;
+  justify-content: center;
+}
+
+header h2 {
+  margin-left: 2rem;
+}
+
+main {
+  margin: 2rem;
+}
